@@ -1,26 +1,32 @@
 [
     {
-        "text": "Pulling on my leash,\nTo meet my newest best friend,\nEvery single dog",
-        "image": "adopted.jpg"
+        "text": "rain in seattle,\ndon''t forget an umbrella,\nor it will be gloom",
+        "image": "puddle_jumper_octodex.jpg",
+        "id": 1,
+        "hearts": 0
     },
     {
-        "text": "Busy time at work,\nSo much to get done today,\nCircle back re: naps",
-        "image": "sun.jpg"
+        "text": "my tunes on repeat,\nit''s time for me to dj,\nhave you heard this one?",
+        "image": "vinyltocat.jpeg",
+        "id": 2,
+        "hearts": 0
     },
     {
-        "text": "It is a new day,\nWake up, yawn, and downward dog,\nHumans say BIG STRETCH",
-        "image": "pillow.jpg"
+        "text": "snow is still falling,\nis it time for apres yet?\nlet''s do one more run",
+        "image": "snowtocat_final.jpg",
+        "id": 3,
+        "hearts": 0
     },
     {
-        "text": "The humans are home,\nThey don't ever go outside,\nJune loves quarantine",
-        "image": "blanket.jpg"
+        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there''s a bug",
+        "image": "Robotocat.jpeg",
+        "id": 4,
+        "hearts": 0
     },
     {
-        "text": "Fridge is opening,\nSilly humans look away,\nLunchables bandit",
-        "image": "visitor.jpg"
-    },
-    {
-        "text": "Sit, down, paw, leave, stay,\nIf I try them all at once,\nGuaranteed a treat",
-        "image": "sunlight.jpg"
+        "text": "same plot as before,\nSo why is it still awesome?\nI think it''s the hat",
+        "image": "linktocat.jpg",
+        "id": 5,
+        "hearts": 0
     }
 ]
